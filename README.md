@@ -2,6 +2,15 @@
 
 logging with style
 
-###license
+### usage
+logst [regular expression]
+
+```
+> logger | logst
+[info] some info log
+[debug] other other log
+```
+
+### license
 
 MIT
