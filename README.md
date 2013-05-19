@@ -2,6 +2,6 @@
 
 logging with style
 
-license
-=======
+###license
+
 MIT
